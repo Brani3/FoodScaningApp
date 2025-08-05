@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\models\\dailynutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:models\\dailynutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\helpers\\jwtservicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:helpers\\jwtservicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\helpers\\ijwtservicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:helpers\\ijwtservicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\dto\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:dto\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\dto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:dto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\dto\\logoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:dto\\logoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\migrations\\20250802195346_addrefreshtokenentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:migrations\\20250802195346_addrefreshtokenentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\migrations\\20250801171211_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:migrations\\20250801171211_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|c:\\users\\smila\\onedrive\\documents\\branimir\\python and ai\\foodairecognition\\food-recognition-app\\foodrecognitionappc#\\migrations\\20250803190449_addrefreshtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236709C1-EB68-4CBB-833C-343CCB30846A}|FoodRecognitionAppC#.csproj|solutionrelative:migrations\\20250803190449_addrefreshtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:29:01.291Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:32:52.426Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyNutrition.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Models\\DailyNutrition.cs",
+              "RelativeDocumentMoniker": "Models\\DailyNutrition.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Models\\DailyNutrition.cs",
+              "RelativeToolTip": "Models\\DailyNutrition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:57:55.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:39:45.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "Services\\JWTService.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Services\\JWTService.cs",
+              "RelativeToolTip": "Services\\JWTService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwF4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:09:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:34:50.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JWTServiceHelper.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Helpers\\JWTServiceHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\JWTServiceHelper.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Helpers\\JWTServiceHelper.cs",
+              "RelativeToolTip": "Helpers\\JWTServiceHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:23:50.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T18:17:56.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJWTServiceHelper.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Helpers\\IJWTServiceHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\IJWTServiceHelper.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Helpers\\IJWTServiceHelper.cs",
+              "RelativeToolTip": "Helpers\\IJWTServiceHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:25:39.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "DTO\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\TokenResponseDto.cs",
+              "RelativeToolTip": "DTO\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:37:01.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "DTO\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:37:32.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogoutRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\LogoutRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\LogoutRequestDto.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\LogoutRequestDto.cs",
+              "RelativeToolTip": "DTO\\LogoutRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:38:19.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFUAAADCQxdwQ50kwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:53:27.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250803190449_AddRefreshTokens.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Migrations\\20250803190449_AddRefreshTokens.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250803190449_AddRefreshTokens.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Migrations\\20250803190449_AddRefreshTokens.cs",
+              "RelativeToolTip": "Migrations\\20250803190449_AddRefreshTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:04:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\UserRegisterDto.cs",
+              "RelativeToolTip": "DTO\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:36:11.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "DTO\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:35:04.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250802195346_AddRefreshTokenEntity.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Migrations\\20250802195346_AddRefreshTokenEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250802195346_AddRefreshTokenEntity.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Migrations\\20250802195346_AddRefreshTokenEntity.cs",
+              "RelativeToolTip": "Migrations\\20250802195346_AddRefreshTokenEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:53:46.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250801171211_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Migrations\\20250801171211_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250801171211_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\smila\\OneDrive\\Documents\\Branimir\\Python and AI\\FoodAIRecognition\\Food-Recognition-App\\FoodRecognitionAppC#\\Migrations\\20250801171211_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250801171211_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:12:12.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
